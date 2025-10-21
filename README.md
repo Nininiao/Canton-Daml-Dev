@@ -1,5 +1,8 @@
 # Canton-Daml-Dev
 
 Canton Fundamentals: Explore the foundational architecture of Canton, a "network of networks" that combines the openness of public blockchains with the control of private ledgers. You'll understand its unique components, like participant nodes and synchronizers, and its eUTXO-based ledger model that enables powerful features.
+
 Daml Programming: Dive into Daml, Canton's purpose-built smart contract language. Learn how to define multi-party workflows using templates and choices, and how to programmatically enforce permissions and data access rights through signatories and observers.
-Unpacking Privacy: Master Canton's core value proposition: privacy and confidentiality. This module breaks down how Canton achieves sub-transaction privacy by decomposing transactions into distinct "views" shared only on a need-to-know basis, ensuring data is minimized across the network. The Polyglot Future: Look ahead to Canton's open language ecosystem. Discover how Canton is expanding to support languages like Rust via Wasm (WebAssembly) and achieve EVM compatibility, allowing Solidity smart contracts to run on Canton with enhanced privacy and control.
+
+Unpacking Privacy: Master Canton's core value proposition: privacy and confidentiality. This module breaks down how Canton achieves sub-transaction privacy by decomposing transactions into distinct "views" shared only on a need-to-know basis, ensuring data is minimized across the network. The Polyglot Future: Look ahead to Canton's open 
+language ecosystem. Discover how Canton is expanding to support languages like Rust via Wasm (WebAssembly) and achieve EVM compatibility, allowing Solidity smart contracts to run on Canton with enhanced privacy and control.
